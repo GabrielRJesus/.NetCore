@@ -70,3 +70,4 @@ E:\.NetCore\EnterpriseApplication\NerdStoreEnterprise\src\services\NSE.Identidad
 E:\.NetCore\EnterpriseApplication\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 E:\.NetCore\EnterpriseApplication\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
 E:\.NetCore\EnterpriseApplication\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NetCore\EnterpriseApplication\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.CopyComplete
